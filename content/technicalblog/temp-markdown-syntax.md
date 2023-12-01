@@ -1,12 +1,10 @@
 +++
-title = "Markdown Syntax Guide"
-date = "2020-01-03"
+title = "Temp Markdown Syntax Guide"
+date = "2023-11-30"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "syntax",
-]
 +++
+
+## Temporary Blog post about markdown
 
 For a quick cheatsheet, check out https://simplemde.com/markdown-guide.
 

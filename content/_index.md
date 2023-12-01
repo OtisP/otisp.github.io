@@ -1,21 +1,15 @@
-# A match made in heaven
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Hey there! I thought it could be fun to make a blog, like how I started to journal. This website is *seriously* under construction right now, but it'll start to flesh out soon[^*]
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
-
-[Go to the original bear blog](https://bearblog.dev/).
+---
+I work as an iOS dev at onXmaps, but in my free time my interests include:
+- Crosswords
+- Running
+- Linguistics
+- Taylor Swift
 
 ---
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+This page was created with the help of [hugo](https://gohugo.io/) and my friends! Theming inspired by [bear blog](https://bearblog.dev/).
 
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+[^*]: Written hopefully on Nov 30, 2023
