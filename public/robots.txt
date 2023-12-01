@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: otispeterson.com/sitemap.xml
