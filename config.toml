@@ -8,7 +8,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "Otis Peterson's website 🤠"
 author = "Otis Peterson"
-copyright = "Copyright © 2020, Jane Doe."
+copyright = "Copyright © 2023, Otis Peterson"
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
