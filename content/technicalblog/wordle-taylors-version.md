@@ -24,7 +24,7 @@ Quick blog post for a project that was almost done about a year ago, but decided
 
 - Download the app! (Coming soon!)
 - Check out the [code](https://github.com/OtisP/Wordle-Taylors-Version)
-- [Tell me](wordle@otispeterson.com) you like (or don't) the game!
+- [Tell me](mailto:wordle@otispeterson.com) you like (or don't) the game!
 
 ## What is it?
 Remember Wordle? The fad from 3 (😬) years ago now? What if you had to guess a Taylor Swift song based on lyrics instead. This *sort* of thing has been done, with [lyricle](https://www.lyricle.app/), and the [lyricdle](https://www.lyricdle.app/), and the [taylordle](https://taylordle.org/), and I'm sure more... but never before has someone executed this exact combination of an idea!
