@@ -1,5 +1,5 @@
 
-Hey there! I thought it could be fun to make a blog, like how I started to journal. This website is *seriously* under construction right now, but it'll start to flesh out soon[^*]
+Hey there! I thought it could be fun to make a blog, like how I started to journal. This website is seriously under construction right now, but it'll start to flesh out soon[^*]
 
 ---
 I'm a Swarthmore graduate who works as an iOS dev at onXmaps, but in my free time my interests include:

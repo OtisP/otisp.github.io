@@ -1,5 +1,5 @@
 +++
-title = "Wordle (Taylors Version)"
+title = "Swiftical"
 date = "2023-12-17T14:18:04-05:00"
 draft = false
 #
@@ -17,14 +17,14 @@ description = "Wordle (Taylor's Version) is a Wordle inspired word game where us
 # tags = []
 +++
 
-# Wordle (Taylor's Version)
+# Swiftical
 Quick blog post for a project that was almost done about a year ago, but decided to push it through so that I could make a blog post.
 
 #### Important Links
 
-- Download the app! (Coming soon!)
+- [Download](https://apps.apple.com/us/app/swiftical/id6475381641) the app! 
 - Check out the [code](https://github.com/OtisP/Wordle-Taylors-Version)
-- [Tell me](mailto:wordle@otispeterson.com) you like (or don't) the game!
+- [Tell me](mailto:swiftical@otispeterson.com) you like (or don't) the game!
 
 ## What is it?
 Remember Wordle? The fad from 3 (😬) years ago now? What if you had to guess a Taylor Swift song based on lyrics instead. This *sort* of thing has been done, with [lyricle](https://www.lyricle.app/), and the [lyricdle](https://www.lyricdle.app/), and the [taylordle](https://taylordle.org/), and I'm sure more... but never before has someone executed this exact combination of an idea!
@@ -61,7 +61,7 @@ I don't have that much design experience, so every decision is made on gut feeli
 ## Final thoughts
 
 Here's a screenshot of the game! You've earned it. 
-![screenshot](/images/wordle_screenshot.png)
+![screenshot](/images/swiftical_screenshot.png)
 
 I love a silly little word game. Thought I'd try my hand at making my own and meanwhile practice some iOS development from the ground up, all in all, a rousing success 😄.
 
@@ -77,6 +77,8 @@ In case you also like silly little word games, please enjoy my silly/serious lit
 - And of course: [Wordle](https://www.nytimes.com/games/wordle/index.html)
 
 
+## Thu Mar 21 Update
+Finally got the app published to the App Store! Got busy with work and with life and busy fighting the Apple Developer Portal, but it's out. Previous mentions of "Wordle" have been stripped of the app for [copyright reasons](https://www.404media.co/nytimes-files-copyright-takedowns-against-hundreds-of-wordle-clones/) but the joy of the app remains.
 
 
 
