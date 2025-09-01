@@ -3,4 +3,4 @@ title = "Support Page"
 +++
 # Support
 
-Contact otis@otispeterson.com for any support help.
+Contact otis (at) otispeterson.com for any support help.
